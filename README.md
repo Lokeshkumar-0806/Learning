@@ -1,4 +1,4 @@
 # Learning
 
 
-Author-Lokesh-kuamr
+Author-Lokesh-Kumar
